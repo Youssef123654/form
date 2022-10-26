@@ -1,0 +1,22 @@
+.navbar{
+    border-bottom: solid 5px #40B7EA;
+}
+.nav-item{
+margin-right: 20px;
+}
+.nav-link{
+    font-size:15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #40B7EA;
+}
+
+
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0,.6), rgba(0, 0, 0,.6)), url(../images/home.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 150px;
+    color: white;
+}
